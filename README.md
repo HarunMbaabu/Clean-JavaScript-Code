@@ -18,7 +18,7 @@
 ## Introduction
 
 ![Humorous image of software quality estimation as a count of how many expletives
-you shout when reading code](![image](https://user-images.githubusercontent.com/51136314/129369562-1ec6885b-3fdf-4e28-89e9-415b258d2f42.png)
+you shout when reading code](![image](https://github.com/HarunMbaabu/Clean-JavaScript-Code/blob/main/clean%20code.jpg?raw=true)
 )
 
 Software engineering principles, from Robert C. Martin's book
