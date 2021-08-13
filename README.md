@@ -18,7 +18,8 @@
 ## Introduction
 
 ![Humorous image of software quality estimation as a count of how many expletives
-you shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)
+you shout when reading code](![image](https://user-images.githubusercontent.com/51136314/129369562-1ec6885b-3fdf-4e28-89e9-415b258d2f42.png)
+)
 
 Software engineering principles, from Robert C. Martin's book
 [_Clean Code_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882),
